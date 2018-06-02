@@ -1,0 +1,50 @@
+[
+{
+  "model": "courses.subject",
+  "fields": {
+    "title": "Content Marketing",
+    "slug": "content-marketing"
+  },
+  "pk": 1
+},
+{
+  "model": "courses.subject",
+  "fields": {
+    "title": "React",
+    "slug": "react"
+  },
+  "pk": 2
+},
+{
+  "model": "courses.subject",
+  "fields": {
+    "title": "Algorithm",
+    "slug": "algorithm"
+  },
+  "pk": 3
+},
+{
+  "model": "courses.subject",
+  "fields": {
+    "title": "Data Structures",
+    "slug": "data-structures"
+  },
+  "pk": 4
+},
+{
+  "model": "courses.subject",
+  "fields": {
+    "title": "Holacracy",
+    "slug": "holacracy"
+  },
+  "pk": 5
+},
+{
+  "model": "courses.subject",
+  "fields": {
+    "title": "OKR",
+    "slug": "okr"
+  },
+  "pk": 6
+}
+]
